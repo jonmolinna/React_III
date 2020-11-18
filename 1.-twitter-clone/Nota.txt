@@ -1,0 +1,17 @@
+yarn add @material-ui/core
+yarn add @material-ui/icons
+yarn add react-twitter-embed
+yarn add react-flip-move
+
+yarn add firebase
+
+Para despliegar el proyecto
+-----------------------------------------------------
+firebase init
+Hosting: Configure.........
+Use an existing project
+twitter-clone
+What do you want to use as your public directory? build
+configure......................(y/n) Y
+yarn run build
+firebase deploy
