@@ -1,0 +1,19 @@
+npx create-react-app my-app --template redux
+
+yarn add @material-ui/core
+yarn add @material-ui/icons
+yarn add react-flip-move
+yarn add timeago.js
+
+yarn add firebase
+
+Para produccion
+----------------------------------
+firebase init
+Hosting
+Use an existing project
+imessage-clone
+..............public directory? build
+............/index.html? (y/n) y
+yarn build
+firebase deploy
