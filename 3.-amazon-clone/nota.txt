@@ -1,0 +1,23 @@
+npm i -g firebase-tools
+yarn add firebase-tools
+yarn add react-router-dom
+yarn add @material-ui/core
+yarn add @material-ui/icons
+yarn add react-currency-format
+yarn add firebase
+
+Implementacion
+----------------------------------------
+firebase login
+firebase init
+Hosting: Configure and deploy Firebase Hosting sites
+Use an existing project
+amazon-clone
+what do you want ...... public directory? build
+configure as a single-page app (rewrite all urls to /index.html)? (y/N) y
+
+npm run build
+firebase deploy
+
+
+Firebase => iMessage-Clone
